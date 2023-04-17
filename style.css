@@ -105,7 +105,7 @@ z-index: 100;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 75%;
+    width: 70%;
     height: 550px;
     background: url(img/bg-mobile-dark.jpg) no-repeat;
     background-size: cover;
@@ -194,12 +194,12 @@ z-index: 100;
 }
 
 .logreg-box.active .form-box.login{
-    transform: translateX(430px);
+    transform: translateX(400px);
     transition-delay: 0s;
 }
 
-.logreg-box .form-box.register{
-    transform: translateX(430px);
+.logreg-box . form-box.register{
+    transform: translateX(400px);
     transition: transform .6s ease;
     transition-delay: 0s;
 }
@@ -309,3 +309,4 @@ z-index: 100;
 .login-register p a:hover{
     text-decoration: underline;
 }
+
