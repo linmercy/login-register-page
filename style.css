@@ -194,12 +194,12 @@ z-index: 100;
 }
 
 .logreg-box.active .form-box.login{
-    transform: translateX(400px);
+    transform: translateX(450px);
     transition-delay: 0s;
 }
 
-.logreg-box . form-box.register{
-    transform: translateX(400px);
+.logreg-box .form-box.register{
+    transform: translateX(450px);
     transition: transform .6s ease;
     transition-delay: 0s;
 }
